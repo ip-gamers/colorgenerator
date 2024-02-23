@@ -1,0 +1,12 @@
+#color-container {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #color-text {
+    user-select: text; /* Разрешаем выделение текста */
+  }
